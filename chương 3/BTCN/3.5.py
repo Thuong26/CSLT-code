@@ -1,0 +1,5 @@
+nn=int(input(''))
+if nn==0: print('Xep loai A')
+if 0<nn<2: print('Xep loai B')
+if 2<=nn<4: print('Xep loai C')
+if nn>=4: print('Xep loai D')
